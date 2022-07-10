@@ -28,8 +28,6 @@ You can also find me at ...
     <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-        <a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/102804483/178159648-2a80a421-cc28-4cac-b1b3-cae7109567b9.png" alt="angular" width="40" height="40" /></a>
-
-    <a href="https://ionicframework.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40" /></a>
+        <a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/102804483/178159648-2a80a421-cc28-4cac-b1b3-cae7109567b9.png" alt="angular" width="40" height="40" /></a><a href="https://ionicframework.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40" /></a>
 
 </p>
