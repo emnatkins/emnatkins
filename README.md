@@ -32,7 +32,6 @@ You can also find me at ...
     <a href="https://ionicframework.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
     <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
-    <a href="https://en.wikipedia.org/wiki/Progressive_web_application" target="_blank"><img src="https://user-images.githubusercontent.com/102804483/178159923-5d4558f0-15ef-4bdd-9284-77d4b0ca469c.png" alt="Pwa" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/102804483/178159830-24ff9e1d-fb1b-4e10-9c99-fc46a3c02b39.png" alt="mongodb" width="40" height="40" /></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
     <a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/102804483/178159648-2a80a421-cc28-4cac-b1b3-cae7109567b9.png" alt="angular" width="40" height="40" /></a>
